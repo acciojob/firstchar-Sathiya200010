@@ -1,4 +1,5 @@
 function firstChar(text) {
+	return text.charAt(0);
   // your code here
 }
 
