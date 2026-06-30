@@ -1,5 +1,5 @@
 function firstChar(text) {
-	return text.charAt(0);
+	console.log(text.charAt(0));
   // your code here
 }
 
